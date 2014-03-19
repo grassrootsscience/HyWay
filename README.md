@@ -3,7 +3,7 @@ HyWay
 
 HyWay == A "Main Road" (lots of things moving around, and it's almost always "under-construction" :) 
 
-Currently supporting the following projects: 
+Currently supporting a test-bed and prototyping environment for the following projects: 
 
 * Childhood nutrition
 
